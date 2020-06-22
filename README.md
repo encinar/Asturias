@@ -15,6 +15,7 @@ Lista de eventos que se celebran todos los años en Asturias:
 * [Citech](https://www.citech.es/)
 * [Asturias NetConf](http://asturiasnetconf.tech/)
 * [Mobile Business Asturias](http://congresomobilebusiness.com/)
+* [DevFest Asturias](http://devfest.gdgasturias.com/)
 
 
 ## Comunidades
@@ -31,6 +32,7 @@ Lista de eventos que se celebran todos los años en Asturias:
 * :bird: [The things network Asturias - IOT](https://www.meetup.com/es-ES/The_Things_Network_Asturias_-_IoT_Makers/)
 * [:bird:](https://twitter.com/AsturiasBTC) [Asturias Blockchain y criptomonedas](https://www.meetup.com/es-ES/Asturias-Bitcoin-y-Criptomonedas/)
 * [:bird:](https://twitter.com/StartupGrindAST) [Startup Grind Asturias](https://www.meetup.com/Asturias-Startup-Grind/)
+* [:bird:](https://twitter.com/gdgasturias)[GDG Asturias](http://www.gdgasturias.com/)
 
 ## Otros
 
@@ -68,6 +70,8 @@ Gracias a las contribuciones de todas estas personas maravillosas ([emoji key](h
 <table>
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/azahara-fernandez-guizan-41713033/"><img src="https://avatars2.githubusercontent.com/u/13187806?v=4" width="100px;" alt="Azahara Fernández Guizán"/><br /><sub><b>Azahara Fernández Guizán</b></sub></a><br /><a href="https://github.com/comunidad-tecnologica/Asturias/commits?author=azaharafernandezguizan" title="Documentation">📖</a></td>
+   <br>
+    <td align="center"><a href="https://www.linkedin.com/in/mariaencinar/"><img src="https://avatars1.githubusercontent.com/u/7669190?s=400&u=cc2564c56d9c070db248c375b0ab99808f2f88e6&v=4" width="100px;" alt="María"/><br /><sub><b>María Encinar</b></sub></a><br /><sub><a href="https://twitter.com/mariaencinar" title="Twitter">Twitter</a></sub></td>
   </tr>
 </table>
 
